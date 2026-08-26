@@ -2,7 +2,7 @@
 
 This repository contains my Data Science assignments completed during my training.
 
-# Topics Covered
+## Topics Covered
 
 - Python
 - Statistics
@@ -22,8 +22,8 @@ This repository contains my Data Science assignments completed during my trainin
 - NLP and Naive Bayes
 - Neural Networks
 - LGBM and XGBM
-- 
-# Tools & Technologies
+
+## Tools & Technologies
 
 - Python
 - Machine Learning
@@ -34,6 +34,6 @@ This repository contains my Data Science assignments completed during my trainin
 - Scikit-learn
 - Jupyter Notebook
 
-# About
+## About
 
 These assignments helped me gain practical knowledge of Python, Statistics, Data Analysis, Machine Learning, and various Data Science techniques.
