@@ -1,43 +1,39 @@
-Data Science Assignments
+# Data Science Assignments
 
-This repository contains my Data Science and Machine Learning assignments completed during my training.
+This repository contains my Data Science assignments completed during my training.
 
-Assignments
-
-No.| Assignment
-1| Basics of Python
-2| Basic Statistics - 1
-3| Basic Statistics - 2
-4| Exploratory Data Analysis (EDA)
-5| EDA - 2
-6| Exploratory Data Analysis (EDA) - 1
-7| Hypothesis Testing
-8| Multiple Linear Regression
-9| Logistic Regression
-10| KNN
-11| Decision Tree
-12| Random Forest
-13| SVM (Support Vector Machine)
-14| Clustering Analysis
-15| PCA
-16| Association Rules
-17| Recommendation System
-18| Time Series
-19| NLP and Naive Bayes
-20| Neural Networks
-21| LGBM & XGBM
-
-Tools and Technologies
+# Topics Covered
 
 - Python
+- Statistics
+- Exploratory Data Analysis (EDA)
+- Hypothesis Testing
+- Multiple Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- Clustering
+- Principal Component Analysis (PCA)
+- Association Rules
+- Recommendation System
+- Time Series
+- NLP and Naive Bayes
+- Neural Networks
+- LGBM and XGBM
+- 
+# Tools & Technologies
+
+- Python
+- Machine Learning
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
-- Machine Learning
 
-About
+# About
 
-These assignments cover Python programming, statistics, data analysis, machine learning algorithms, unsupervised learning, NLP, time series, recommendation systems, and deep learning concepts.
+These assignments helped me gain practical knowledge of Python, Statistics, Data Analysis, Machine Learning, and various Data Science techniques.
